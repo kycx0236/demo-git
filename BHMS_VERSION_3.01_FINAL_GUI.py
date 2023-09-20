@@ -1,5 +1,5 @@
 # Made by Dorato, Nollan, Sarmiento
-# Try for yourself!
+
 import customtkinter as ctk
 import tkinter as tk
 from tkinter import ttk
