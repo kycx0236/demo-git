@@ -8,6 +8,7 @@ Project Description: An application intended as a new and efficient way of manag
 
 📒 Features of the Boarding House Management System:
 
+
 🟡 Records Management: It is a database system that makes the records of the boarding house’s operation electronic, safe, accurate, reliable, and fast.
 
 🟡 Room and Tenant Management: Maintain a database of available rooms. Track tenant information including personal details, contact information, and others. Assign and manage room allocations.
